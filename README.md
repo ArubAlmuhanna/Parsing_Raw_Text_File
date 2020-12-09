@@ -8,6 +8,7 @@ In this project:
 # Code and Resources Used
 
 **Programming Language:** Python 3.7.1 and Jupyter notebook
+
 **Libraries used:**
 - pandas
 - re
