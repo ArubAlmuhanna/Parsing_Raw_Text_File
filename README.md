@@ -27,6 +27,7 @@ Raw text file:
 
 CSV file: 
 
+<a href="url"><img src="https://user-images.githubusercontent.com/67848891/101595596-b8a76800-3a47-11eb-834b-9677b04b45e2.png" height="200" width="500" ></a>
 
 
 Json file:
