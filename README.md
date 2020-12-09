@@ -17,6 +17,6 @@ The dataset is a raw text file that consists of 150 patents. Each patent has a s
 
 # Input & Outputs 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/67848891/101594716-441ff980-3a46-11eb-941a-e26a1d8a01de.png" height="200" width="400" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/67848891/101594716-441ff980-3a46-11eb-941a-e26a1d8a01de.png" height="200" width="500" ></a>
 
 
