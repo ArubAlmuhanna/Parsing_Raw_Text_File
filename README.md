@@ -1,7 +1,7 @@
 # Parsing_Raw_Text_File
 
 In this project:
-- Explored the structure of the raw text file. 
+- Explored the structure of a raw text file. 
 - Parsed the text by defining efficient regular expressions modules.
 - Combined the extracted strings into well-structred CSV and Json files. 
 
